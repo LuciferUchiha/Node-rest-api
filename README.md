@@ -45,6 +45,7 @@ Once the server is started you can access the Swagger documentation under
 ```
 http://localhost:3003/api-docs/
 ```
+You can find in the access.log file a history of all the requests your API has been receiving 
 
 ## License
 
