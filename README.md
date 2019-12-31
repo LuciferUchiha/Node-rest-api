@@ -13,12 +13,13 @@ This Project is a simple REST API to learn how to create them and document them 
 ### Built With
 * [Node.js](https://nodejs.org/en/)
 * [MySQL](https://www.mysql.com/)
-* [mysql, Node dependencie for MySQL](https://www.npmjs.com/package/mysql)
-* [morgan, Node dependencie for Logging](https://www.npmjs.com/package/morgan)
-* [express, Node dependencie to actually create the API](https://www.npmjs.com/package/express)
-* [body-parser, Node dependencie to easly handle http bodys](https://www.npmjs.com/package/body-parser)
-* [swagger-jsdoc, Node dependencie to genereate swagger docs](https://www.npmjs.com/package/swagger-jsdoc)
-* [swagger-ui-express, Node dependencie to genereate swagger docs](https://www.npmjs.com/package/swagger-ui-express)
+Node Packages:
+* [mysql, Node package for MySQL](https://www.npmjs.com/package/mysql)
+* [morgan, Node package for Logging](https://www.npmjs.com/package/morgan)
+* [express, Node package to actually create the API](https://www.npmjs.com/package/express)
+* [body-parser, Node package to easly handle http bodys](https://www.npmjs.com/package/body-parser)
+* [swagger-jsdoc, Node package to genereate swagger docs](https://www.npmjs.com/package/swagger-jsdoc)
+* [swagger-ui-express, Node package to genereate swagger docs](https://www.npmjs.com/package/swagger-ui-express)
 
 ## Installation
 
