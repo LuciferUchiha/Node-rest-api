@@ -7,6 +7,7 @@ const swaggerUi = require("swagger-ui-express");
 const app = express();
 
 const port = 3003;
+const hostname = "http://localhost" + ":" + port;
 
 // configure body parser
 app.use(bodyParser.urlencoded({ extended: true }));
@@ -36,7 +37,7 @@ const swaggerOptions = {
     info: {
       title: "Rest API",
       description: "A simple rest API",
-      servers: ["http://localhost:3003"]
+      servers: [hostname]
     }
   },
   apis: ["./routes/*.js"]
