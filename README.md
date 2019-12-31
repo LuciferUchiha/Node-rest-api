@@ -13,6 +13,7 @@ This Project is a simple REST API to learn how to create them and document them 
 ### Built With
 * [Node.js](https://nodejs.org/en/)
 * [MySQL](https://www.mysql.com/)
+
 Node Packages:
 * [mysql, Node package for MySQL](https://www.npmjs.com/package/mysql)
 * [morgan, Node package for Logging](https://www.npmjs.com/package/morgan)
